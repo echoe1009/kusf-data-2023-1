@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<iframe width="450" height="300" src="http://www.utic.go.kr/view/map/cctvStream.jsp?cctvid=L010284&cctvname=%25EC%25A2%2585%25ED%2595%25A9%25EC%259A%25B4%25EB%258F%2599%25EC%259E%25A5&kind=Seoul&cctvip=null&cctvch=52&id=214&cctvpasswd=null&cctvport=null&minX=127.05903130899338&minY=37.494963513885715&maxX=127.08947252354741&maxY=37.52026774564739" frameborder="0"></iframe>
+</html>
